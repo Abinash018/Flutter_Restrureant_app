@@ -8,7 +8,7 @@ Project ini adalah final submission kelas [Dicoding Belajar Fundamental Aplikasi
 ![Thumbnail 2](https://github.com/triagung128/cari-restoran/blob/master/assets/banners/2.png)
 
 ## :iphone: Download Apps
-<a href='https://play.google.com/store/apps/details?id=com.triagung.carirestoran&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=200 /></a>
+
 
 ## :tada: Features App
 - Recommended List Restaurant
